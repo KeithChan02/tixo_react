@@ -2,6 +2,9 @@
 
 Tixo is a decentralized ticketing platform built on the Ethereum blockchain. This repository contains the React frontend for Tixo, allowing users to interact with the smart contract seamlessly.
 
+### Backend Smart Contract
+For the underlying smart contract logic, refer to the [Tixo Solidity repository](https://github.com/KeithChan02/tixo_solidity).
+
 ## Features
 
 - **Buy Tickets**: Purchase tickets for various events using cryptocurrency.
